@@ -123,6 +123,7 @@ button:hover {
   color: white;
   text-align: center;
   gap: 5px;
+  border-left: 10px solid var(--ocean);
 }
 .status-button {
   background-color: var(--read-clr);
