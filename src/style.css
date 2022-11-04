@@ -44,7 +44,7 @@ body {
   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
 }
 .content {
-  background:url('../Assets/gabriel-sollmann-Y7d265_7i08-unsplash.jpg');
+  background:url('../Assets/background.jpg');
   background-size: cover;
   padding: 10vh 10vw;
 }
